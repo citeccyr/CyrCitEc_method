@@ -1,7 +1,7 @@
-# CyrCitEc as branch of CitEcCyr
+# CyrCitEc is a branch of CitEcCyr
 
-CitEcCyr creates an open data for citation content analysis (CCA). 
+CyrCitEc creates an open data for the citation content analysis (CCA), but CitEcCyr creates open data for the traditional citation analysis. 
 
-A concept and a workflow diagram of CitEcCyr see at https://github.com/citeccyr/CitEcCyr/wiki). 
+A concept and a workflow diagram of CitEcCyr see at https://github.com/sparinov/CitEcCyr/wiki). 
 
 The CitEcCyr/CyrCitEc project is funded by RANEPA (http://www.ranepa.ru/)
